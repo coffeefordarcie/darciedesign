@@ -1,1 +1,5 @@
 www.darciedesign.com
+$ dig www.darciedesign.com +nostats +nocomments +nocmd
+# ;www.darciedesign.com.                 IN      A
+# www.darciedesign.com.          3592    IN      CNAME   coffeefordarcie.github.io.
+# coffeefordarcie.github.io.      43192   IN      A       204.232.175.78
